@@ -1,24 +1,30 @@
 # Brett Shane McHargue
 ## Contact Information
 
-11 Cavendish Court | 21-23 Bromley Road | London SE6 2TS | United Kindom  
-brett.mchargue@gmail.com | @brettshane | +44 7515 337 064
+24 Laurel  Road | St. Helens WA10 4AX | United Kindom  
+email:   brett.mchargue@gmail.com 
+twitter: @brettshane 
+github:  https://github.com/ebrett
+mobile: +44 7380 385 310 
 
 ## Summary
 
-Highly skilled, resourceful developer, using Ruby on Rails and related technologies starting in 2006 and professionally since 2009. Practice Test Driven Development, Continuous Integration/Deployment and Agile/Scrum processes.
+Highly skilled, resourceful senior software developer, using Ruby on Rails and related technologies starting in 2006 and professionally since 2009. Practice Test Driven Development, Continuous Integration/Deployment and Agile/Scrum processes.  Particularly interested in finding or building the right team. Problem solver, capable of tackling the full stack.
 
 ## Skills
 * Languages
-  * Proficient in: Ruby, Javascript, HAML, SASS, JSON, Prolog
+  * Proficient in: Ruby, Javascript, HAML, SASS, JSON
   * Familiar with: Python, Prolog, Ansible, Chef, Erlang, Elixir
 * Software/Platforms/Services
-  * Rails, Sinatra, Capistrano, Jekyll, Refinery, Discourse, Wordpress
+  * Rails, Sinatra, Capistrano, Jekyll 
   * Vim, TMUX, Git, Github, CodeShip, Travis CI
-  * MySQL, PostgreSQL, ElasticSearch, Solr
-  * Apple OSX, Linux (Ubuntu 14.04), AWS, Amazon EC2, Digital Ocean, Heroku, EngineYard, Docker, Vagrant, VirtualBox VM
+  * MySQL, PostgreSQL, ElasticSearch
+  * Apple OSX, Linux (Ubuntu), AWS, Amazon EC2, Digital Ocean, Heroku, EngineYard, Docker, Vagrant, VirtualBox VM
 
 ## Experience
+ **Senior Ruby Developer** (June 2017 - March 2018)
+ Freelance developer for CollectPlus, updating their existing Rails application with new functionality. Projects included Help and Advice customer support area, utilizing ElasticSearch [https://www.collectplus.co.uk/help-advice].  Available for new contracts.
+
 **Ruby Developer** (July 2015-Sept 2016)
 *Royal Academy of Arts*  [http://www.royalacademy.org.uk]
 
